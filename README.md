@@ -13,7 +13,7 @@ I'm a recent Computing Science graduate and an early-career software developer. 
 - Continuously stay informed and upto date on the latest iterations of modern technology/software aswell as keeping upto date with industry trends.
 
 ## 🔨🤖 TECHNOLOGY/TOOLS 
-- OOP Languages: Python, Java, C++
+- OOP Languages: Python, Java, C#
 - IOS environments: Swift, Xcode
 - SQL - Specifically PostgreSQL
 - AI-powered systems: ChatGPT, Claude, Gemini
