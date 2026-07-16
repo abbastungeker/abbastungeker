@@ -10,7 +10,7 @@ I'm a recent Computing Science graduate and an early-career software developer. 
 - Collaborate within team environments (Version Control Systems, VScode, agile workflows) whilst maintaining a high level of communication.
 - Leverage emerging AI-powered tools (Claude, GPT, Gemini) to enhance overall productivity and efficiency.
 - Transform complex technical problems into beginner friendly, clean, practical solutions.
-- Continuously stay informed and upto date on the latest iterations of modern technology/software aswell as keeping upto date with industry trends.
+- Continuously stay informed and up to date on the latest iterations of modern technology/software as well as keeping up to date with industry trends.
 
 ## 🔨🤖 TECHNOLOGY/TOOLS 
 - OOP Languages: Python, Java, C#
@@ -18,7 +18,7 @@ I'm a recent Computing Science graduate and an early-career software developer. 
 - SQL - Specifically PostgreSQL
 - AI-powered systems: ChatGPT, Claude, Gemini
 - Version Control Systems: Github, Azure DevOps
-- Micrsoft Excel, Google Sheets
+- Microsoft Excel, Google Sheets
 - Collaboration Spaces: Microsoft Teams, Zoom
 
 ## 🔎 FIND ME  
